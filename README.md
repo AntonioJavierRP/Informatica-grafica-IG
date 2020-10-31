@@ -4,7 +4,7 @@ Repositorio para las prácticas de Informática gráfica.
 ## Uso
 
 ### Figuras
-    swith(tecla) {
+    switch(tecla) {
         case GLUT_KEY_F1:
         figure = cubo;
         break; // Cubo
